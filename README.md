@@ -23,12 +23,12 @@ By running the script **image2image.py**.
 ## Video to video
 By running the script **video2video.py**.
 <p align="center">
-  <img src="./data/demo_video_output.gif" width=600><br/>
+  <img src="./data/demo_video_output.gif" width=800><br/>
   <i>output video</i>
 </p>
 
 ## Requirements
 * **python 3.12**
 * **cv2 4.10**
-* **PIL** 
+* **PIL 10.4** 
 * **numpy**
