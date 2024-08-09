@@ -9,8 +9,8 @@ By running the script **image2txt.py**.
   <i>input image</i>
 </p>
 <p align="center">
-  <img src="./data/demo_txt_output.jpg" width=600><br/>
-  <i>output image</i>
+  <img src="./data/demo_txt_output.png" width=600><br/>
+  <i>output txt</i>
 </p>
 
 ## Image to image
