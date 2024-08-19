@@ -1,5 +1,5 @@
 <p align="center">
- <h1 align="center">ASCII GENERATOR✏️</h1>
+ <h1 align="center">ASCII Generator✏️</h1>
 </p>
 
 ## Image to text
