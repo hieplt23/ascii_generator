@@ -28,7 +28,7 @@ By running the script `video2video.py`
 </p>
 
 ## Requirements
-* **python 3.12**
-* **cv2 4.10**
+* **Python 3.12**
+* **OpenCV 4.10**
 * **PIL 10.4** 
-* **numpy**
+* **Numpy**
